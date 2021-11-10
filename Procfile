@@ -1,1 +1,1 @@
-worker: python -m WebStreamer
+web: python -m WebStreamer
